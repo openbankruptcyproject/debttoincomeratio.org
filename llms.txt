@@ -1,0 +1,42 @@
+# debttoincomeratio.org
+
+> Free guide to understanding debt-to-income ratio (DTI), how to calculate it, what thresholds mean, and when high DTI signals financial distress.
+
+debttoincomeratio.org is a free, open-source educational resource about debt-to-income ratio and its role in financial decisions including mortgage qualification, credit assessment, and bankruptcy. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://debttoincomeratio.org/: Complete guide to debt-to-income ratio -- what it is, how to calculate it, what the thresholds mean (36%, 43%, 50%+), and why it matters.
+- https://debttoincomeratio.org/calculator.html: Free interactive DTI calculator. Enter your monthly debts and income, instantly see your front-end and back-end DTI ratios.
+- https://debttoincomeratio.org/means-test.html: How debt-to-income ratio connects to the bankruptcy means test. DTI is not the test itself, but high DTI often signals means test eligibility.
+- https://debttoincomeratio.org/mortgage.html: DTI requirements for mortgages -- FHA (43%), conventional (36-45%), VA (41%), USDA (41%). What lenders actually look at.
+- https://debttoincomeratio.org/how-to-lower.html: Practical ways to lower your DTI ratio, from increasing income to debt consolidation to bankruptcy as a last resort.
+- https://debttoincomeratio.org/bankruptcy-signal.html: When high DTI means you should consider filing bankruptcy. The warning signs and thresholds that indicate financial distress beyond recovery.
+- https://debttoincomeratio.org/credit-card-debt.html: How credit card debt drives up your DTI ratio and what to do about it.
+- https://debttoincomeratio.org/student-loans.html: Student loan impact on DTI -- IBR, PAYE, SAVE plans and how different repayment plans affect your ratio.
+- https://debttoincomeratio.org/faq.html: Frequently asked questions about debt-to-income ratio with detailed answers.
+
+## Key Facts
+
+- DTI is calculated as total monthly debt payments divided by gross monthly income
+- Front-end DTI includes only housing costs; back-end DTI includes all debt payments
+- Under 36% is generally considered healthy; 36-43% is manageable; 43-50% is stressed; over 50% is critical
+- FHA loans allow up to 43% back-end DTI (sometimes higher with compensating factors)
+- Conventional mortgages typically require under 36% front-end and under 43-45% back-end DTI
+- DTI is not the same as the bankruptcy means test, but high DTI often correlates with means test eligibility
+- Bankruptcy can dramatically lower DTI by eliminating dischargeable debt
+
+## Network
+
+Part of the Open Bankruptcy Project:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- meanstest.org -- Chapter 7 means test
+- creditcarddebtbankruptcy.org -- Credit card debt and bankruptcy
+- howmuchdoesbankruptcycost.com -- Cost of filing bankruptcy
+- bankruptcystudentloans.org -- Student loans in bankruptcy
+- chapter7vs13.org -- Comparing Chapter 7 and Chapter 13
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

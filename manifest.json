@@ -1,0 +1,16 @@
+{
+  "name": "Debt-to-Income Ratio -- Complete Guide & Calculator",
+  "short_name": "DTI Ratio",
+  "description": "Free guide to understanding your debt-to-income ratio. Calculator, thresholds, mortgage requirements, and when high DTI signals you should consider bankruptcy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

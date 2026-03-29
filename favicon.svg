@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<circle cx="50" cy="50" r="45" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+<g transform="translate(50,52)" fill="#58a6ff" font-family="Georgia,serif" font-weight="bold" text-anchor="middle">
+<text y="-8" font-size="28">DTI</text>
+<line x1="-18" y1="2" x2="18" y2="2" stroke="#58a6ff" stroke-width="3"/>
+<text y="22" font-size="18">%</text>
+</g>
+</svg>
