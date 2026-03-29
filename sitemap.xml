@@ -1,48 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.w3.org/2005/Sitemaps/sitemaps.org/schema/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://debttoincomeratio.org/</loc>
+    <loc>https://debttoincomeratio.org/bankruptcy-signal.html</loc>
     <lastmod>2026-03-29</lastmod>
-    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://debttoincomeratio.org/calculator.html</loc>
     <lastmod>2026-03-29</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://debttoincomeratio.org/means-test.html</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://debttoincomeratio.org/mortgage.html</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://debttoincomeratio.org/how-to-lower.html</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://debttoincomeratio.org/bankruptcy-signal.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://debttoincomeratio.org/credit-card-debt.html</loc>
     <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://debttoincomeratio.org/student-loans.html</loc>
-    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://debttoincomeratio.org/faq.html</loc>
     <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://debttoincomeratio.org/how-to-lower.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://debttoincomeratio.org/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://debttoincomeratio.org/means-test.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://debttoincomeratio.org/mortgage.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://debttoincomeratio.org/student-loans.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
