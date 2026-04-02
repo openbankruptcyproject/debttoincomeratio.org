@@ -64,44 +64,7 @@
 </script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a good debt-to-income ratio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A DTI ratio under 36% is generally considered healthy. Between 36% and 43% is manageable but may limit your borrowing options. Between 43% and 50% indicates financial stress. Over 50% is considered critical and may signal that bankruptcy or other debt relief should be explored."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do you calculate debt-to-income ratio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Add up all your monthly debt payments (mortgage/rent, car loans, student loans, credit card minimums, personal loans, child support) and divide by your gross monthly income (before taxes). Multiply by 100 to get a percentage. For example, $2,000 in monthly debt payments divided by $5,000 gross income = 40% DTI."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What DTI ratio do you need for a mortgage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "FHA loans allow up to 43% back-end DTI (sometimes up to 50% with compensating factors). Conventional mortgages typically require under 36% front-end DTI and under 43-45% back-end DTI. VA loans use 41% as a guideline but are more flexible. USDA loans cap at 41% back-end DTI."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does DTI affect your credit score?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DTI does not directly affect your credit score. Credit scores are based on payment history, credit utilization, length of credit history, new credit, and credit mix. However, high DTI often correlates with high credit utilization, which does affect your score. Lenders look at both DTI and credit score separately."
-      }
-    }
-  ]
-}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a good debt-to-income ratio?", "acceptedAnswer": {"@type": "Answer", "text": "A DTI ratio under 36% is generally considered healthy. Between 36% and 43% is manageable but may limit your borrowing options. Between 43% and 50% indicates financial stress. Over 50% is considered critical and may signal that bankruptcy or other debt relief should be explored."}}, {"@type": "Question", "name": "How do you calculate debt-to-income ratio?", "acceptedAnswer": {"@type": "Answer", "text": "Add up all your monthly debt payments (mortgage/rent, car loans, student loans, credit card minimums, personal loans, child support) and divide by your gross monthly income (before taxes). Multiply by 100 to get a percentage. For example, $2,000 in monthly debt payments divided by $5,000 gross income = 40% DTI."}}, {"@type": "Question", "name": "What DTI ratio do you need for a mortgage?", "acceptedAnswer": {"@type": "Answer", "text": "FHA loans allow up to 43% back-end DTI (sometimes up to 50% with compensating factors). Conventional mortgages typically require under 36% front-end DTI and under 43-45% back-end DTI. VA loans use 41% as a guideline but are more flexible. USDA loans cap at 41% back-end DTI."}}, {"@type": "Question", "name": "Does DTI affect your credit score?", "acceptedAnswer": {"@type": "Answer", "text": "DTI does not directly affect your credit score. Credit scores are based on payment history, credit utilization, length of credit history, new credit, and credit mix. However, high DTI often correlates with high credit utilization, which does affect your score. Lenders look at both DTI and credit score separately."}}, {"@type": "Question", "name": "What is the debt to income ratio?", "acceptedAnswer": {"@type": "Answer", "text": "Debt-to-income ratio (DTI) is the percentage of your gross monthly income that goes toward monthly debt payments. Calculate it by dividing total monthly debt payments by gross monthly income. For example, if you pay $2,000/month in debt on $5,000/month income, your DTI is 40%."}}, {"@type": "Question", "name": "What DTI ratio is too high?", "acceptedAnswer": {"@type": "Answer", "text": "A DTI above 43% is generally considered too high for mortgage qualification. Above 50%, most financial experts consider the debt burden unsustainable. If your DTI exceeds 50% and you cannot see a path to paying it down within 3-5 years, bankruptcy may be worth exploring as a reset."}}, {"@type": "Question", "name": "Does debt to income affect bankruptcy eligibility?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, indirectly. Chapter 7 uses the means test, which compares your income to the state median and examines your disposable income after allowed expenses. Chapter 13 requires enough disposable income to fund a repayment plan. A high DTI does not disqualify you -- in fact, it often supports the argument that bankruptcy is necessary."}}]}
 </script>
 
 <script type="application/ld+json">
@@ -332,6 +295,11 @@
     a { color: #000; text-decoration: underline; }
     .content-section { border-color: #ccc; background: #f9f9f9; }
   }
+.faq-section{margin:2rem 0}
+.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}
+.faq-item{background:var(--surface);border:1px solid var(--border);border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}
+.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}
+.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}
 </style>
 </head>
 <body>
@@ -515,7 +483,7 @@
     <h3>For Credit Cards and Personal Loans</h3>
     <p>While credit card companies do not publish DTI cutoffs, they absolutely check your income and existing debt. High DTI means higher APRs, lower credit limits, or outright denial.</p>
     <h3>For Bankruptcy</h3>
-    <p>DTI is not the bankruptcy <a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network" title="Bankruptcy Means Test -- Open Bankruptcy Project" target="_blank" rel="noopener">means test</a> -- that is a separate calculation based on median income by state and household size. But high DTI is often the first sign that the means test will be passed. If your DTI is over 50%, you should seriously evaluate whether <a href="/means-test.html">the means test</a> would qualify you for Chapter 7.</p>
+    <p>DTI is not the bankruptcy <a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network" title="Bankruptcy Means Test -- Open Bankruptcy Project" target="_blank" rel="noopener">bankruptcy means test guide</a> -- that is a separate calculation based on median income by state and household size. But high DTI is often the first sign that the means test will be passed. If your DTI is over 50%, you should seriously evaluate whether <a href="/means-test.html">the means test</a> would qualify you for Chapter 7.</p>
     <h3>For Financial Health Generally</h3>
     <p>DTI is a stress indicator. Research consistently shows that households with DTI over 40% are significantly more likely to miss payments, default on loans, and face collection actions. It is one of the most reliable predictors of financial distress.</p>
   </div>
@@ -534,7 +502,24 @@
     <p>If your front-end DTI is fine but your back-end DTI is high, that means non-housing debt (credit cards, car loans, student loans) is the problem. That is actually the easier scenario to fix -- those debts are often dischargeable in bankruptcy.</p>
   </div>
 
-  <div class="cta-box">
+  
+  <div class="faq-section">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item">
+      <h3>What is the debt to income ratio?</h3>
+      <p>Debt-to-income ratio (DTI) is the percentage of your gross monthly income that goes toward monthly debt payments. Calculate it by dividing total monthly debt payments by gross monthly income. For example, if you pay $2,000/month in debt on $5,000/month income, your DTI is 40%.</p>
+    </div>
+    <div class="faq-item">
+      <h3>What DTI ratio is too high?</h3>
+      <p>A DTI above 43% is generally considered too high for mortgage qualification. Above 50%, most financial experts consider the debt burden unsustainable. If your DTI exceeds 50% and you cannot see a path to paying it down within 3-5 years, bankruptcy may be worth exploring as a reset.</p>
+    </div>
+    <div class="faq-item">
+      <h3>Does debt to income affect bankruptcy eligibility?</h3>
+      <p>Yes, indirectly. Chapter 7 uses the means test, which compares your income to the state median and examines your disposable income after allowed expenses. Chapter 13 requires enough disposable income to fund a repayment plan. A high DTI does not disqualify you -- in fact, it often supports the argument that bankruptcy is necessary.</p>
+    </div>
+  </div>
+
+<div class="cta-box">
     <h3>Calculate Your DTI Right Now</h3>
     <p>Free, instant, no signup required. Enter your numbers and see where you stand.</p>
     <div class="cta-links">
@@ -546,10 +531,10 @@
   <div class="content-section">
     <h2>Related Network Resources</h2>
     <ul>
-      <li><a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a> -- The Chapter 7 means test explained</li>
-      <li><a href="https://creditcarddebtbankruptcy.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">creditcarddebtbankruptcy.org</a> -- <a href="https://creditcarddebtbankruptcy.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network" title="Credit Card Debt and Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">Credit card debt</a> in bankruptcy</li>
-      <li><a href="https://howmuchdoesbankruptcycost.com?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">howmuchdoesbankruptcycost.com</a> -- What bankruptcy actually costs</li>
-      <li><a href="https://chapter7vs13.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">chapter7vs13.org</a> -- Chapter 7 vs. Chapter 13 comparison</li>
+      <li><a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">bankruptcy means test guide</a> -- The Chapter 7 means test explained</li>
+      <li><a href="https://creditcarddebtbankruptcy.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">credit card debt in bankruptcy</a> -- <a href="https://creditcarddebtbankruptcy.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network" title="Credit Card Debt and Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">Credit card debt</a> in bankruptcy</li>
+      <li><a href="https://howmuchdoesbankruptcycost.com?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">how much bankruptcy costs</a> -- What bankruptcy actually costs</li>
+      <li><a href="https://chapter7vs13.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">Chapter 7 vs Chapter 13 comparison</a> -- Chapter 7 vs. Chapter 13 comparison</li>
       <li><a href="https://bankruptcystudentloans.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">bankruptcystudentloans.org</a> -- <a href="https://bankruptcystudentloans.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network" title="Student Loans in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">Student loans in bankruptcy</a></li>
       <li><a href="https://1328f.com?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a> -- Bankruptcy discharge eligibility screener</li>
     </ul>
