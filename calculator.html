@@ -212,7 +212,7 @@
 </header>
 
 <div class="breadcrumb" aria-label="Breadcrumb">
-  <a href="https://1328f.com/?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">Network</a> &rsaquo; <a href="/">DTI Ratio</a> &rsaquo; Calculator
+  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">DTI Ratio</a> &rsaquo; Calculator
 </div>
 
 <main id="main-content">
@@ -321,7 +321,7 @@
       <li><a href="/mortgage.html">Check mortgage DTI requirements</a> -- see if your ratio qualifies for FHA, conventional, or VA</li>
       <li><a href="/how-to-lower.html">Learn how to lower your DTI</a> -- practical strategies</li>
       <li><a href="/bankruptcy-signal.html">Is your DTI a bankruptcy signal?</a> -- when high DTI means you should consider filing</li>
-      <li><a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a> -- take the Chapter 7 <a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network" title="Bankruptcy Means Test -- Open Bankruptcy Project" target="_blank" rel="noopener">means test</a></li>
+      <li><a href="https://meanstest.org">meanstest.org</a> -- take the Chapter 7 <a href="https://meanstest.org" title="Bankruptcy Means Test -- Open Bankruptcy Project" target="_blank" rel="noopener">means test</a></li>
     </ul>
   </div>
 
@@ -330,10 +330,10 @@
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
   <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
   <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
-  <li><a href="https://canifileagain.org?utm_source=debttoincomeratio.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
-  <li><a href="https://bankruptcydismissed.org?utm_source=debttoincomeratio.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed -- What Now?</a></li>
-  <li><a href="https://filebankruptcyagain.org?utm_source=debttoincomeratio.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
-  <li><a href="https://109g.org?utm_source=debttoincomeratio.org&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Section 109(g) Filing Bar</a></li>
+  <li><a href="https://canifileagain.org" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
+  <li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed -- What Now?</a></li>
+  <li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+  <li><a href="https://109g.org" style="color:#58a6ff;text-decoration:none">Section 109(g) Filing Bar</a></li>
   </ul>
 </div>
 
@@ -459,7 +459,7 @@ function calculateDTI() {
   } else if (backDTI < 50) {
     assess = '<div class="warning-box"><p><strong>Stressed (43% - 50%)</strong></p><p>Most new credit applications will be denied. You are spending nearly half your income on debt. Aggressive debt reduction is recommended. <a href="/bankruptcy-signal.html">Review whether this is a bankruptcy signal.</a></p></div>';
   } else {
-    assess = '<div class="warning-box"><p><strong>Critical (over 50%)</strong></p><p>More than half your gross income goes to debt payments. This is typically unsustainable. You should seriously consider <a href="/bankruptcy-signal.html">whether bankruptcy or formal debt relief</a> is appropriate. <a href="https://meanstest.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">Check your means test eligibility.</a></p></div>';
+    assess = '<div class="warning-box"><p><strong>Critical (over 50%)</strong></p><p>More than half your gross income goes to debt payments. This is typically unsustainable. You should seriously consider <a href="/bankruptcy-signal.html">whether bankruptcy or formal debt relief</a> is appropriate. <a href="https://meanstest.org">Check your means test eligibility.</a></p></div>';
   }
   document.getElementById('dti-assessment').innerHTML = assess;
 
@@ -470,7 +470,7 @@ function calculateDTI() {
   breakdown += '<p>Total monthly debt: <strong>$' + totalDebt.toLocaleString() + '</strong></p>';
   breakdown += '<p>Remaining after debt: <strong>$' + (income - totalDebt).toLocaleString() + '</strong> (' + ((income - totalDebt)/income*100).toFixed(1) + '% of income)</p>';
   if (otherDebt > housing && backDTI > 36) {
-    breakdown += '<p style="color:var(--yellow)">Your non-housing debt ($' + otherDebt.toLocaleString() + '/mo) exceeds your housing costs. Credit card debt, car loans, and student loans are the main driver of your high DTI. These debts are often <a href="https://creditcarddebtbankruptcy.org?utm_source=debttoincomeratio.org&utm_medium=referral&utm_campaign=btn-network">dischargeable in bankruptcy</a>.</p>';
+    breakdown += '<p style="color:var(--yellow)">Your non-housing debt ($' + otherDebt.toLocaleString() + '/mo) exceeds your housing costs. Credit card debt, car loans, and student loans are the main driver of your high DTI. These debts are often <a href="https://creditcarddebtbankruptcy.org">dischargeable in bankruptcy</a>.</p>';
   }
   breakdown += '</div>';
   document.getElementById('dti-breakdown').innerHTML = breakdown;
