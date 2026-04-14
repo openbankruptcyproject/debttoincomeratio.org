@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## When High DTI Means You Should Consider Bankruptcy -- DTI Ratio
+## When High DTI Means You Should Consider Bankruptcy - DTI Ratio
 Source: https://debttoincomeratio.org/bankruptcy-signal.html
 
 Skip to main content
@@ -36,29 +36,29 @@ A high DTI ratio alone does not mean you need bankruptcy. Someone earning $200,0
 
 You should seriously consider bankruptcy when:
 
-DTI over 50% for 6+ months -- and it is not going down
+DTI over 50% for 6+ months - and it is not going down
 
-You are using credit cards for essentials -- groceries, gas, utilities. You are borrowing to survive, not to invest.
+You are using credit cards for essentials - groceries, gas, utilities. You are borrowing to survive, not to invest.
 
-You are making minimum payments only -- on multiple cards, and the balances are not decreasing (or are increasing)
+You are making minimum payments only - on multiple cards, and the balances are not decreasing (or are increasing)
 
-You have missed or are about to miss payments -- late fees and penalty interest rates are making the spiral worse
+You have missed or are about to miss payments - late fees and penalty interest rates are making the spiral worse
 
-You are being contacted by collectors -- calls, letters, threats of lawsuits
+You are being contacted by collectors - calls, letters, threats of lawsuits
 
-You cannot cover a $500 emergency -- zero savings buffer means any unexpected expense goes on credit
+You cannot cover a $500 emergency - zero savings buffer means any unexpected expense goes on credit
 
-You are losing sleep over money -- the psychological toll of debt stress is real and measurable
+You are losing sleep over money - the psychological toll of debt stress is real and measurable
 
-A medical event or job loss started this -- and you had manageable debt before the trigger event
+A medical event or job loss started this - and you had manageable debt before the trigger event
 
-If three or more of these describe your situation, bankruptcy is not just "an option" -- it may be the most rational financial decision available to you.
+If three or more of these describe your situation, bankruptcy is not just "an option" - it may be the most rational financial decision available to you.
 
 The Math of Unsustainable DTI
 
 Let's look at what happens when DTI stays above 50% with credit card debt:
 
-Example: $5,000 gross monthly income. $2,600 monthly debt payments (52% DTI). After taxes (~25%), take-home is $3,750. After $2,600 in debt payments, you have $1,150 for everything else -- food, utilities, gas, medical, clothing, phone, and emergencies.
+Example: $5,000 gross monthly income. $2,600 monthly debt payments (52% DTI). After taxes (~25%), take-home is $3,750. After $2,600 in debt payments, you have $1,150 for everything else - food, utilities, gas, medical, clothing, phone, and emergencies.
 
 That is $38/day for a household. Any unexpected expense goes on credit. The debt grows. The minimum payments increase. DTI climbs higher.
 
@@ -66,7 +66,7 @@ This is the debt spiral. Once it starts, budgeting and "spending less" cannot fi
 
 What Bankruptcy Actually Does to Your DTI
 
-Chapter 7 -- Immediate DTI Reset
+Chapter 7 - Immediate DTI Reset
 
 Chapter 7 eliminates most unsecured debt entirely. The impact on DTI is dramatic:
 
@@ -76,9 +76,9 @@ After Chapter 7: If $1,200 of that was credit cards, medical, and personal loans
 
 That is a shift from "critical" to "healthy" in 3-4 months (the typical Chapter 7 timeline). The means test determines whether you qualify. For discharge timing rules, visit 1328f.com.
 
-Chapter 13 -- Restructured DTI
+Chapter 13 - Restructured DTI
 
-Chapter 13 does not eliminate debt immediately, but it restructures it into a court-approved plan lasting 3-5 years. Your plan payment is based on disposable income -- often lower than what you were paying before filing. Compare Chapter 7 vs. Chapter 13.
+Chapter 13 does not eliminate debt immediately, but it restructures it into a court-approved plan lasting 3-5 years. Your plan payment is based on disposable income - often lower than what you were paying before filing. Compare Chapter 7 vs. Chapter 13.
 
 The Cost of Waiting
 
@@ -90,17 +90,17 @@ Wage garnishment risk: Once a creditor gets a judgment, they can garnish up to 2
 
 Bank levy risk: Judgment creditors can freeze and seize bank accounts
 
-Retirement fund raiding: People drain 401(k) accounts to pay credit card debt -- money that was protected in bankruptcy
+Retirement fund raiding: People drain 401(k) accounts to pay credit card debt - money that was protected in bankruptcy
 
 Health effects: Financial stress is linked to increased rates of depression, anxiety, hypertension, and heart disease
 
-The most common regret among bankruptcy filers is not filing sooner. They spent years struggling, draining savings, raiding retirement, and damaging their health -- all to delay an action that would have reset their financial situation in months.
+The most common regret among bankruptcy filers is not filing sooner. They spent years struggling, draining savings, raiding retirement, and damaging their health - all to delay an action that would have reset their financial situation in months.
 
 What Bankruptcy Does NOT Eliminate
 
 Not all debt is dischargeable. These typically survive bankruptcy and will still contribute to your DTI:
 
-Most student loans (unless you can prove undue hardship -- see student loans and DTI)
+Most student loans (unless you can prove undue hardship - see student loans and DTI)
 
 Child support and alimony
 
@@ -114,15 +114,15 @@ For a detailed list of non-dischargeable debts, visit 523a.org.
 
 Next Steps If You Are in the Danger Zone
 
-Calculate your exact DTI -- know the number
+Calculate your exact DTI - know the number
 
-Take the means test -- see if you qualify for Chapter 7
+Take the means test - see if you qualify for Chapter 7
 
-Consult a bankruptcy attorney -- most offer free initial consultations. Be wary of bankruptcy mills that churn clients
+Consult a bankruptcy attorney - most offer free initial consultations. Be wary of bankruptcy mills that churn clients
 
-Do not drain retirement accounts -- 401(k) and IRA funds are protected in bankruptcy. Do not use them to pay credit card debt
+Do not drain retirement accounts - 401(k) and IRA funds are protected in bankruptcy. Do not use them to pay credit card debt
 
-Do not transfer assets -- moving money or property before filing can be considered fraud
+Do not transfer assets - moving money or property before filing can be considered fraud
 
 Check Your Numbers
 
@@ -135,7 +135,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -232,7 +232,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Free DTI Calculator -- Calculate Your Debt-to-Income Ratio -- DTI Ratio
+## Free DTI Calculator - Calculate Your Debt-to-Income Ratio - DTI Ratio
 Source: https://debttoincomeratio.org/calculator.html
 
 Skip to main content
@@ -334,19 +334,19 @@ All calculations happen in your browser. No data is sent anywhere, no data is st
 
 Next Steps
 
-Check mortgage DTI requirements -- see if your ratio qualifies for FHA, conventional, or VA
+Check mortgage DTI requirements - see if your ratio qualifies for FHA, conventional, or VA
 
-Learn how to lower your DTI -- practical strategies
+Learn how to lower your DTI - practical strategies
 
-Is your DTI a bankruptcy signal? -- when high DTI means you should consider filing
+Is your DTI a bankruptcy signal? - when high DTI means you should consider filing
 
-meanstest.org -- take the Chapter 7 means test
+meanstest.org - take the Chapter 7 means test
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -463,7 +463,7 @@ FAQ
 
 Credit Card Debt and DTI
 
-How minimum payments silently eat your debt-to-income ratio -- and what to do about it.
+How minimum payments silently eat your debt-to-income ratio - and what to do about it.
 
 Network › DTI Ratio › Credit Card Debt
 
@@ -485,7 +485,7 @@ $30,000$600 - $90012% - 18%
 
 $50,000$1,000 - $1,50020% - 30%
 
-The average American household with credit card debt carries about $7,900 in balances (Federal Reserve, 2024). On $5,000/month income, that alone adds 3-5% to your DTI -- before mortgage, car, or student loans.
+The average American household with credit card debt carries about $7,900 in balances (Federal Reserve, 2024). On $5,000/month income, that alone adds 3-5% to your DTI - before mortgage, car, or student loans.
 
 Why Credit Card Debt Is Uniquely Destructive to DTI
 
@@ -556,7 +556,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -652,7 +652,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Debt-to-Income Ratio FAQ -- Common Questions Answered -- DTI Ratio
+## Debt-to-Income Ratio FAQ - Common Questions Answered - DTI Ratio
 Source: https://debttoincomeratio.org/faq.html
 
 Skip to main content
@@ -708,7 +708,7 @@ Yes. Your monthly rent payment counts toward both front-end and back-end DTI.
 
 Do utilities count in DTI?
 
-No. Utilities (electric, gas, water, internet, phone) do not count toward DTI. Only debt payments -- obligations you owe to a lender or creditor -- are included.
+No. Utilities (electric, gas, water, internet, phone) do not count toward DTI. Only debt payments - obligations you owe to a lender or creditor - are included.
 
 Does car insurance count in DTI?
 
@@ -783,7 +783,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -880,7 +880,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## How to Lower Your Debt-to-Income Ratio -- 10 Strategies -- DTI Ratio
+## How to Lower Your Debt-to-Income Ratio - 10 Strategies - DTI Ratio
 Source: https://debttoincomeratio.org/how-to-lower.html
 
 Skip to main content
@@ -918,15 +918,15 @@ Every new loan or credit card increases your monthly obligations. If you are try
 
 The denominator matters as much as the numerator. Ways to increase your gross monthly income for DTI purposes:
 
-Ask for a raise -- document your value and ask
+Ask for a raise - document your value and ask
 
-Add a side job -- if documented for 2+ years, lenders will count it (some accept less for gig income)
+Add a side job - if documented for 2+ years, lenders will count it (some accept less for gig income)
 
-Overtime -- if your employer offers it and you have a 2-year history of taking it
+Overtime - if your employer offers it and you have a 2-year history of taking it
 
-Add a co-borrower -- a spouse's income counts toward DTI if they are on the loan
+Add a co-borrower - a spouse's income counts toward DTI if they are on the loan
 
-Rental income -- if you rent out a room or property, documented rental income counts
+Rental income - if you rent out a room or property, documented rental income counts
 
 Note for lenders: Most mortgage lenders require 2 years of documented income history for side jobs, self-employment, and overtime to be counted. You cannot just start a weekend job and immediately use that income for DTI.
 
@@ -950,7 +950,7 @@ Personal consolidation loans at a lower rate than credit card APR
 
 Home equity loans or lines of credit (if you have equity)
 
-Caution: Debt consolidation does not eliminate debt -- it restructures it. If you consolidate credit card debt into a home equity loan, you are converting unsecured debt into secured debt. If you later need to file bankruptcy, that secured debt is harder to discharge.
+Caution: Debt consolidation does not eliminate debt - it restructures it. If you consolidate credit card debt into a home equity loan, you are converting unsecured debt into secured debt. If you later need to file bankruptcy, that secured debt is harder to discharge.
 
 6. Pay Off a Car Loan
 
@@ -978,7 +978,7 @@ Nonprofit credit counseling agencies (NFCC-accredited) can set up a debt managem
 
 A DMP typically lasts 3-5 years. It does not eliminate debt but can reduce monthly payments by 30-50%. This is a step below bankruptcy and does not have the same credit impact.
 
-10. Bankruptcy -- The Nuclear Option
+10. Bankruptcy - The Nuclear Option
 
 When your DTI is over 50%, you have been struggling for months, and the strategies above are not enough, bankruptcy may be the most effective way to reset your DTI.
 
@@ -986,7 +986,7 @@ Chapter 7 eliminates most unsecured debt (credit cards, medical bills, personal 
 
 Chapter 13 restructures your debt into a 3-5 year repayment plan based on your disposable income. Monthly payments are often lower than what you were paying before filing.
 
-Bankruptcy is a legal tool, not a moral failure. It exists because Congress recognized that sometimes debt becomes unmanageable through no fault of the debtor -- medical emergencies, job loss, divorce, or predatory lending. If your DTI signals financial distress, read when high DTI means you should consider filing.
+Bankruptcy is a legal tool, not a moral failure. It exists because Congress recognized that sometimes debt becomes unmanageable through no fault of the debtor - medical emergencies, job loss, divorce, or predatory lending. If your DTI signals financial distress, read when high DTI means you should consider filing.
 
 DTI after Chapter 7: Many people go from 60%+ DTI to under 30% after a Chapter 7 discharge, because all their credit card, medical, and personal loan debt is eliminated. The bankruptcy stays on your credit report for 7-10 years, but your DTI is immediately healthier. For discharge eligibility, visit 1328f.com.
 
@@ -1001,7 +1001,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1097,7 +1097,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Debt-to-Income Ratio Calculator -- Free Tool [2026] -- DTI Ratio
+## Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio
 Source: https://debttoincomeratio.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1117,7 +1117,7 @@ Credit Cards
 Student Loans
 FAQ
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Debt-to-Income Ratio Calculator
 
@@ -1139,7 +1139,7 @@ How debt-to-income ratio connects to Chapter 7 bankruptcy eligibility.
 
 Mortgage DTI Requirements
 
-FHA, conventional, VA, and USDA -- the DTI limits lenders actually use.
+FHA, conventional, VA, and USDA - the DTI limits lenders actually use.
 
 How to Lower Your DTI
 
@@ -1163,13 +1163,13 @@ Common questions about DTI with clear, detailed answers.
 
 What Is Debt-to-Income Ratio?
 
-Your debt-to-income ratio (DTI) is the percentage of your gross monthly income that goes toward paying debts. It is the single most important number lenders look at when deciding whether to give you a loan -- and it is the number you should be watching if you are worried about your financial health.
+Your debt-to-income ratio (DTI) is the percentage of your gross monthly income that goes toward paying debts. It is the single most important number lenders look at when deciding whether to give you a loan - and it is the number you should be watching if you are worried about your financial health.
 
 There are two types of DTI:
 
-Front-end DTI -- only your housing costs (mortgage/rent, property taxes, insurance, HOA) divided by gross income
+Front-end DTI - only your housing costs (mortgage/rent, property taxes, insurance, HOA) divided by gross income
 
-Back-end DTI -- all monthly debt payments (housing + car loans + student loans + credit card minimums + personal loans + child support/alimony) divided by gross income
+Back-end DTI - all monthly debt payments (housing + car loans + student loans + credit card minimums + personal loans + child support/alimony) divided by gross income
 
 When people say "DTI ratio" without specifying, they usually mean back-end DTI. That is the number that matters most.
 
@@ -1227,7 +1227,7 @@ Total monthly debt: $2,050. DTI = $2,050 / $5,000 = 41%
 
 That puts you in the "stressed" zone. Most conventional mortgage lenders would not approve you for additional credit. Use our calculator to check your own DTI.
 
-DTI Thresholds -- What the Numbers Mean
+DTI Thresholds - What the Numbers Mean
 
 DTI Range
 Rating
@@ -1237,11 +1237,11 @@ Under 36%
 Healthy
 Most lenders consider you a good risk. You qualify for the best rates.
 
-36% -- 43%
+36% - 43%
 Manageable
 You can still qualify for most loans (FHA accepts up to 43%), but you are stretched. One income disruption could push you into crisis.
 
-43% -- 50%
+43% - 50%
 Stressed
 Most new credit applications will be denied. You are one emergency away from missing payments. Consider aggressive debt reduction.
 
@@ -1261,7 +1261,7 @@ While credit card companies do not publish DTI cutoffs, they absolutely check yo
 
 For Bankruptcy
 
-DTI is not the bankruptcy bankruptcy means test guide -- that is a separate calculation based on median income by state and household size. But high DTI is often the first sign that the means test will be passed. If your DTI is over 50%, you should seriously evaluate whether the means test would qualify you for Chapter 7.
+DTI is not the bankruptcy bankruptcy means test guide - that is a separate calculation based on median income by state and household size. But high DTI is often the first sign that the means test will be passed. If your DTI is over 50%, you should seriously evaluate whether the means test would qualify you for Chapter 7.
 
 For Financial Health Generally
 
@@ -1279,7 +1279,7 @@ Back-end DTI = All debt payments / Gross income
 
 The conventional guideline is 36% or less. FHA allows up to 43%.
 
-If your front-end DTI is fine but your back-end DTI is high, that means non-housing debt (credit cards, car loans, student loans) is the problem. That is actually the easier scenario to fix -- those debts are often dischargeable in bankruptcy.
+If your front-end DTI is fine but your back-end DTI is high, that means non-housing debt (credit cards, car loans, student loans) is the problem. That is actually the easier scenario to fix - those debts are often dischargeable in bankruptcy.
 
 Frequently Asked Questions
 
@@ -1293,7 +1293,7 @@ A DTI above 43% is generally considered too high for mortgage qualification. Abo
 
 Does debt to income affect bankruptcy eligibility?
 
-Yes, indirectly. Chapter 7 uses the means test, which compares your income to the state median and examines your disposable income after allowed expenses. Chapter 13 requires enough disposable income to fund a repayment plan. A high DTI does not disqualify you -- in fact, it often supports the argument that bankruptcy is necessary.
+Yes, indirectly. Chapter 7 uses the means test, which compares your income to the state median and examines your disposable income after allowed expenses. Chapter 13 requires enough disposable income to fund a repayment plan. A high DTI does not disqualify you - in fact, it often supports the argument that bankruptcy is necessary.
 
 Calculate Your DTI Right Now
 
@@ -1304,27 +1304,27 @@ Read the FAQ
 
 Related Network Resources
 
-bankruptcy means test guide -- The Chapter 7 means test explained
+bankruptcy means test guide - The Chapter 7 means test explained
 
-credit card debt in bankruptcy -- Credit card debt in bankruptcy
+credit card debt in bankruptcy - Credit card debt in bankruptcy
 
-how much bankruptcy costs -- What bankruptcy actually costs
+how much bankruptcy costs - What bankruptcy actually costs
 
-Chapter 7 vs Chapter 13 comparison -- Chapter 7 vs. Chapter 13 comparison
+Chapter 7 vs Chapter 13 comparison - Chapter 7 vs. Chapter 13 comparison
 
-bankruptcystudentloans.org -- Student loans in bankruptcy
+bankruptcystudentloans.org - Student loans in bankruptcy
 
-1328f.com -- Bankruptcy discharge eligibility screener
+1328f.com - Bankruptcy discharge eligibility screener
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
-Bankruptcy Denied -- Next Steps
+Bankruptcy Denied - Next Steps
 
 Stay updated on new datasets and research findings
 
@@ -1467,7 +1467,7 @@ bankruptcymeanstest.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1530,6 +1530,7 @@ chapter7vs13.org
 creditcarddebtbankruptcy.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
@@ -1538,11 +1539,13 @@ Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## DTI Ratio and the Bankruptcy Means Test -- How They Connect
+## DTI Ratio and the Bankruptcy Means Test - How They Connect
 Source: https://debttoincomeratio.org/means-test.html
 
 Skip to main content
@@ -1562,11 +1565,11 @@ FAQ
 
 DTI and the Means Test
 
-Your debt-to-income ratio is not the means test. But they are closely related -- and high DTI is often the first sign you qualify for Chapter 7.
+Your debt-to-income ratio is not the means test. But they are closely related - and high DTI is often the first sign you qualify for Chapter 7.
 
 Network › DTI Ratio › Means Test
 
-DTI vs. the Means Test -- They Are Different Things
+DTI vs. the Means Test - They Are Different Things
 
 People often confuse DTI with the bankruptcy means test, or assume one determines the other. They are related but distinct:
 
@@ -1583,7 +1586,7 @@ Lenders, financial planners, you
 Bankruptcy courts (required for Chapter 7)
 
 Legal basis
-None -- it is a financial metric
+None - it is a financial metric
 11 U.S.C. Section 707(b)(2)
 
 Income measure
@@ -1604,7 +1607,7 @@ While DTI and the means test use different calculations, they are correlated in 
 
 High DTI often means high allowed deductions on the means test.
 
-If you have large car payments, mortgage payments, and other secured debt payments, those reduce your "disposable income" on the means test -- potentially qualifying you for Chapter 7 even if your income is above the state median.
+If you have large car payments, mortgage payments, and other secured debt payments, those reduce your "disposable income" on the means test - potentially qualifying you for Chapter 7 even if your income is above the state median.
 
 The Connection Point: Disposable Income
 
@@ -1616,11 +1619,11 @@ When the Correlation Breaks
 
 There are exceptions:
 
-High income + high debt -- If you earn $150,000/year but have $80,000 in credit card debt, your DTI might be high but you might still fail the means test because your income is well above the state median and credit card payments are not fully deductible
+High income + high debt - If you earn $150,000/year but have $80,000 in credit card debt, your DTI might be high but you might still fail the means test because your income is well above the state median and credit card payments are not fully deductible
 
-Low income + low debt -- If you earn $25,000/year with minimal debt, your DTI might be low but you automatically pass the means test because your income is below the median
+Low income + low debt - If you earn $25,000/year with minimal debt, your DTI might be low but you automatically pass the means test because your income is below the median
 
-Voluntary debt payments -- Some debt payments that count for DTI (like payments on luxury vehicles) may not fully count as means test deductions
+Voluntary debt payments - Some debt payments that count for DTI (like payments on luxury vehicles) may not fully count as means test deductions
 
 The Means Test in Brief
 
@@ -1638,7 +1641,7 @@ There is no bright-line DTI that triggers bankruptcy. But here is the general re
 
 DTI under 36%: Bankruptcy is almost certainly not needed. Focus on budgeting and paying down debt normally.
 
-DTI 36% - 50%: Bankruptcy may or may not be appropriate. It depends on your trajectory -- is the DTI going up or down? Are you current on payments? Do you have an income increase coming? Consider consulting a bankruptcy attorney for a free evaluation.
+DTI 36% - 50%: Bankruptcy may or may not be appropriate. It depends on your trajectory - is the DTI going up or down? Are you current on payments? Do you have an income increase coming? Consider consulting a bankruptcy attorney for a free evaluation.
 
 DTI over 50%: More than half your gross income goes to debt. This is almost always unsustainable. If you have been at this level for more than 6 months without a clear path out, you should seriously evaluate bankruptcy. Read the full bankruptcy signal analysis.
 
@@ -1653,7 +1656,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1749,7 +1752,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## DTI Requirements for Mortgages -- FHA, Conventional, VA, USDA -- DTI Ratio
+## DTI Requirements for Mortgages - FHA, Conventional, VA, USDA - DTI Ratio
 Source: https://debttoincomeratio.org/mortgage.html
 
 Skip to main content
@@ -1769,7 +1772,7 @@ FAQ
 
 Mortgage DTI Requirements
 
-Every loan type has different DTI limits. Here is what lenders actually require -- FHA, conventional, VA, and USDA.
+Every loan type has different DTI limits. Here is what lenders actually require - FHA, conventional, VA, and USDA.
 
 Network › DTI Ratio › Mortgage DTI
 
@@ -1803,9 +1806,9 @@ Limited flexibility
 Jumbo
 Varies by lender
 36-43% typical
-Strict -- large reserves required
+Strict - large reserves required
 
-FHA Loans -- The Most Flexible on DTI
+FHA Loans - The Most Flexible on DTI
 
 FHA loans are the go-to for borrowers with higher DTI ratios. The standard limits are 31% front-end and 43% back-end, but FHA allows exceptions up to 40/50% with compensating factors:
 
@@ -1821,7 +1824,7 @@ No discretionary debt: Most debt is non-discretionary (mortgage, student loans)
 
 The 43% rule comes from FHA. When people say "you need under 43% DTI for a mortgage," they are usually referring to FHA's standard back-end limit. It has become a general benchmark even for non-FHA discussions.
 
-Conventional Loans -- Stricter but Not Impossible
+Conventional Loans - Stricter but Not Impossible
 
 Conventional mortgages backed by Fannie Mae and Freddie Mac have traditional guidelines of 28/36% (front/back), but the reality is more flexible than most people think:
 
@@ -1833,15 +1836,15 @@ The key factors: credit score, down payment, reserves, and employment history
 
 However, at higher DTI levels you will likely pay higher interest rates or be required to purchase mortgage insurance even with 20% down.
 
-VA Loans -- No Front-End Limit
+VA Loans - No Front-End Limit
 
-VA loans are unique in that they have no formal front-end DTI requirement. The back-end guideline is 41%, but VA lenders focus more on residual income -- the money left over after all obligations.
+VA loans are unique in that they have no formal front-end DTI requirement. The back-end guideline is 41%, but VA lenders focus more on residual income - the money left over after all obligations.
 
 VA residual income requirements vary by region, family size, and loan amount. If your residual income exceeds the VA's table by 20% or more, lenders can approve DTI well above 41%.
 
 For veterans: VA loans are often the best option for borrowers with higher DTI. The combination of no front-end limit, flexible back-end limit, and residual income focus means many veterans qualify even with DTI over 45%.
 
-USDA Loans -- Rural Housing
+USDA Loans - Rural Housing
 
 USDA loans cap at 29% front-end and 41% back-end with limited flexibility. These loans are income-limited (you must earn under 115% of the area median income) and property-restricted (eligible rural areas only).
 
@@ -1851,15 +1854,15 @@ How to Improve Your Mortgage DTI
 
 If your DTI is too high for the mortgage you want, you have several options:
 
-Pay down credit card debt -- the fastest way to lower back-end DTI. See how credit cards affect DTI.
+Pay down credit card debt - the fastest way to lower back-end DTI. See how credit cards affect DTI.
 
-Pay off a car loan -- eliminating a $400/month car payment on $5,000 income drops your DTI by 8%
+Pay off a car loan - eliminating a $400/month car payment on $5,000 income drops your DTI by 8%
 
-Increase your income -- documented side income, raises, or a co-borrower
+Increase your income - documented side income, raises, or a co-borrower
 
-Reduce the loan amount -- a larger down payment means a smaller mortgage and lower DTI
+Reduce the loan amount - a larger down payment means a smaller mortgage and lower DTI
 
-Consider a longer loan term -- 30-year vs. 15-year reduces the monthly payment
+Consider a longer loan term - 30-year vs. 15-year reduces the monthly payment
 
 For a complete list of strategies, see how to lower your DTI.
 
@@ -1888,7 +1891,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1984,7 +1987,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Student Loan Impact on DTI Ratio -- IBR, PAYE, SAVE Plans
+## Student Loan Impact on DTI Ratio - IBR, PAYE, SAVE Plans
 Source: https://debttoincomeratio.org/student-loans.html
 
 Skip to main content
@@ -2004,7 +2007,7 @@ FAQ
 
 Student Loans and DTI
 
-Student loans can dominate your DTI ratio. But the repayment plan you choose can cut your monthly payment -- and your DTI -- dramatically.
+Student loans can dominate your DTI ratio. But the repayment plan you choose can cut your monthly payment - and your DTI - dramatically.
 
 Network › DTI Ratio › Student Loans
 
@@ -2094,7 +2097,7 @@ Apply for the plan that gives you the lowest payment (usually SAVE or PAYE)
 
 Processing takes 1-3 months. Your loan servicer handles the switch.
 
-DTI impact: Switching from standard to SAVE on $50,000 of student debt with $60,000 annual income could drop your monthly payment from $530 to ~$150 -- reducing your DTI by 7.6 percentage points. That can be the difference between qualifying for a mortgage and being denied.
+DTI impact: Switching from standard to SAVE on $50,000 of student debt with $60,000 annual income could drop your monthly payment from $530 to ~$150 - reducing your DTI by 7.6 percentage points. That can be the difference between qualifying for a mortgage and being denied.
 
 Student Loans and Bankruptcy
 
@@ -2112,7 +2115,7 @@ For a detailed guide to student loans in bankruptcy, visit bankruptcystudentloan
 
 Student Loan Forgiveness and DTI
 
-If your loans are forgiven (through PSLF, IDR forgiveness, or another program), the impact on DTI is total -- the monthly payment drops to $0 permanently. Key programs:
+If your loans are forgiven (through PSLF, IDR forgiveness, or another program), the impact on DTI is total - the monthly payment drops to $0 permanently. Key programs:
 
 Public Service Loan Forgiveness (PSLF): 120 qualifying payments (10 years) while working for a qualifying employer. No tax on the forgiven amount.
 
@@ -2131,7 +2134,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -2224,3 +2227,75 @@ Privacy | Terms | Open Bankruptcy Project
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - debttoincomeratio.org
+Source: https://debttoincomeratio.org/privacy.html
+
+debttoincomeratio.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

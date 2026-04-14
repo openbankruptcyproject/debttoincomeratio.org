@@ -1,19 +1,20 @@
-# Debt-to-Income Ratio Calculator -- Free Tool [2026] -- DTI Ratio
+# Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio
 > Calculate your debt-to-income ratio instantly. See how DTI affects mortgage approval, credit, and bankruptcy eligibility. Free 2026 calculator.
 
 ## About
 debttoincomeratio.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- When High DTI Means You Should Consider Bankruptcy -- DTI Ratio: https://debttoincomeratio.org/bankruptcy-signal.html
-- Free DTI Calculator -- Calculate Your Debt-to-Income Ratio -- DTI Ratio: https://debttoincomeratio.org/calculator.html
+- When High DTI Means You Should Consider Bankruptcy - DTI Ratio: https://debttoincomeratio.org/bankruptcy-signal.html
+- Free DTI Calculator - Calculate Your Debt-to-Income Ratio - DTI Ratio: https://debttoincomeratio.org/calculator.html
 - How Credit Card Debt Drives Up Your DTI Ratio: https://debttoincomeratio.org/credit-card-debt.html
-- Debt-to-Income Ratio FAQ -- Common Questions Answered -- DTI Ratio: https://debttoincomeratio.org/faq.html
-- How to Lower Your Debt-to-Income Ratio -- 10 Strategies -- DTI Ratio: https://debttoincomeratio.org/how-to-lower.html
-- Debt-to-Income Ratio Calculator -- Free Tool [2026] -- DTI Ratio: https://debttoincomeratio.org/
-- DTI Ratio and the Bankruptcy Means Test -- How They Connect: https://debttoincomeratio.org/means-test.html
-- DTI Requirements for Mortgages -- FHA, Conventional, VA, USDA -- DTI Ratio: https://debttoincomeratio.org/mortgage.html
-- Student Loan Impact on DTI Ratio -- IBR, PAYE, SAVE Plans: https://debttoincomeratio.org/student-loans.html
+- Debt-to-Income Ratio FAQ - Common Questions Answered - DTI Ratio: https://debttoincomeratio.org/faq.html
+- How to Lower Your Debt-to-Income Ratio - 10 Strategies - DTI Ratio: https://debttoincomeratio.org/how-to-lower.html
+- Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio: https://debttoincomeratio.org/
+- DTI Ratio and the Bankruptcy Means Test - How They Connect: https://debttoincomeratio.org/means-test.html
+- DTI Requirements for Mortgages - FHA, Conventional, VA, USDA - DTI Ratio: https://debttoincomeratio.org/mortgage.html
+- Student Loan Impact on DTI Ratio - IBR, PAYE, SAVE Plans: https://debttoincomeratio.org/student-loans.html
+- Privacy Policy: https://debttoincomeratio.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
