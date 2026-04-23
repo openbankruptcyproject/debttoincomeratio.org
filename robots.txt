@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://debttoincomeratio.org/sitemap.xml
+
+Sitemap: https://debttoincomeratio.org/sitemapindex.xml
