@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Debt-to-Income Ratio FAQ - Common Questions Answered - DTI Ratio</title>
+<meta content="Learn about debt-to-income ratio faq - common questions answered | debttoincomeratio.org in our free 2026 guide." name="description"/>
+<link href="https://debttoincomeratio.org/faq.html" rel="canonical"/>
+<meta content="Debt-to-Income Ratio FAQ - Common Questions Answered - DTI Ratio" property="og:title"/>
+<meta content="Learn about debt-to-income ratio faq - common questions answered | debttoincomeratio.org in our free 2026 guide." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://debttoincomeratio.org/faq.html" property="og:url"/>
+<meta content="debttoincomeratio.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://debttoincomeratio.org/og-image.svg" property="og:image"/>
+<meta content="https://debttoincomeratio.org/og-image.svg" name="twitter:image"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#0d1117" name="theme-color"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a debt-to-income ratio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your debt-to-income ratio (DTI) is your total monthly debt payments divided by your gross monthly income (before taxes), expressed as a percentage. If you pay $2,000/month in debt and earn $5,000/month gross, your DTI is 40%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a good debt-to-income ratio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under 36% is generally considered healthy. Between 36-43% is manageable but limits borrowing options. Between 43-50% indicates financial stress. Over 50% is considered critical and often unsustainable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between front-end and back-end DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Front-end DTI includes only housing costs (mortgage/rent, property taxes, insurance, HOA) divided by gross income. Back-end DTI includes all monthly debt payments (housing plus car loans, student loans, credit card minimums, personal loans, child support) divided by gross income. Back-end DTI is the more commonly used and more important number."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does rent count in DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Your monthly rent payment counts toward both front-end and back-end DTI. If you pay $1,500/month rent on $5,000 gross income, that alone is 30% front-end DTI."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do utilities count in DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Utilities (electric, gas, water, internet, phone) do not count toward DTI. Only debt payments - obligations you owe to a lender or creditor - are included. Utilities are considered living expenses, not debt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does car insurance count in DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Car insurance is not a debt payment and does not count toward DTI. Only your car loan or lease payment counts. However, homeowner's insurance and property taxes do count toward front-end DTI if they are part of your mortgage escrow."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What DTI do I need for an FHA loan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The standard FHA DTI limits are 31% front-end and 43% back-end. With compensating factors (strong reserves, minimal payment increase, residual income), FHA can approve up to 40% front-end and 50% back-end DTI."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does DTI affect my credit score?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not directly. Credit scores are based on payment history, credit utilization, length of credit history, new credit, and credit mix. DTI is not a factor. However, high DTI often correlates with high credit utilization, which does affect your score. Lenders look at both DTI and credit score as separate metrics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DTI calculated on gross or net income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gross income (before taxes and deductions). This is the industry standard for all DTI calculations, whether for mortgages, personal loans, or general financial assessment. Using gross income makes DTI appear lower than it would with net income."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do student loans affect DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Student loans affect DTI based on your actual monthly payment. On a standard 10-year plan, $50,000 in loans means about $530/month. On income-driven repayment (IBR, PAYE, SAVE), the payment could be $0-200/month depending on income. For mortgage purposes, even $0 IDR payments may be counted as 0.5-1% of the loan balance by lenders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can bankruptcy lower my DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, dramatically. Chapter 7 bankruptcy eliminates most unsecured debt (credit cards, medical bills, personal loans), which directly removes those monthly payments from your DTI calculation. Many people go from 60%+ DTI to under 30% after a Chapter 7 discharge. Chapter 13 restructures payments into a court-managed plan that is often lower than pre-filing obligations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the 43% rule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 43% rule refers to the FHA's standard maximum back-end DTI for mortgage qualification. It has become a general benchmark in personal finance. Under the Qualified Mortgage (QM) rules from the Consumer Financial Protection Bureau, 43% was the maximum DTI for QM loans (with some exceptions). A DTI over 43% generally limits your mortgage options to FHA with compensating factors or non-QM lenders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly can I lower my DTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on the method. Paying off a credit card balance can lower DTI immediately (next statement cycle). Increasing income takes time but changes DTI as soon as you can document it. Switching student loans to IDR takes 1-3 months. Bankruptcy can reset DTI in 3-4 months (Chapter 7) or immediately reduce payments (Chapter 13). The fastest option is eliminating a monthly payment entirely."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Network","item":"https://1328f.com/"},{"@type":"ListItem","position":2,"name":"DTI Ratio","item":"https://debttoincomeratio.org/"},{"@type":"ListItem","position":3,"name":"FAQ","item":"https://debttoincomeratio.org/faq.html"}]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "DTI FAQ",
+      "description": "Frequently asked questions about debt-to-income ratio: what counts, what does not, how to calculate it, what DTI you need for a mortgage, and when high DTI mean",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://debttoincomeratio.org/faq.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "DTI FAQ",
+      "url": "https://debttoincomeratio.org/faq.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; } nav .site-name:hover { color: var(--accent); text-decoration: none; }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; } .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  .breadcrumb { max-width: 820px; margin: 1rem auto 0; padding: 0 1.5rem; font-size: 0.85rem; color: var(--text-muted); }
+  .breadcrumb a { color: var(--text-muted); } .breadcrumb a:hover { color: var(--accent); }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+
+  details { margin-bottom: 1rem; }
+  details summary {
+    cursor: pointer; padding: 0.75rem 1rem; background: #21262d; border: 1px solid var(--border);
+    border-radius: 6px; color: #f0f6fc; font-weight: 600; font-size: 0.95rem;
+    list-style: none; display: flex; align-items: center; gap: 0.5rem; min-height: 44px;
+  }
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before { content: '\25B6'; font-size: 0.7rem; transition: transform 0.2s; color: var(--accent); }
+  details[open] summary::before { transform: rotate(90deg); }
+  details[open] summary { border-radius: 6px 6px 0 0; border-bottom: none; }
+  details .faq-answer {
+    padding: 1rem; background: var(--surface); border: 1px solid var(--border);
+    border-top: none; border-radius: 0 0 6px 6px; font-size: 0.95rem; color: var(--text);
+  }
+  details .faq-answer p { margin-bottom: 0.5rem; } details .faq-answer p:last-child { margin-bottom: 0; }
+
+  .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
+  .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
+  .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
+  .cta-box .cta-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+  .cta-box .cta-links a { display: inline-block; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; }
+  .cta-links .primary-btn { background: #238636; color: #fff; } .cta-links .primary-btn:hover { background: #2ea043; text-decoration: none; }
+  .cta-links .secondary-btn { background: var(--border); color: var(--text); } .cta-links .secondary-btn:hover { background: #484f58; text-decoration: none; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; } header { padding: 2rem 1rem; } main { padding: 1.5rem 1rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .nav-links a { padding: 0.6rem 0; min-height: 44px; display: flex; align-items: center; border-bottom: 1px solid #21262d; }
+    .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
+  }
+</style>
+<link href="https://debttoincomeratio.org/faq.html" hreflang="en" rel="alternate"/>
+<link href="https://debttoincomeratio.org/faq-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" role="navigation">
+<a class="site-name" href="/">debttoincomeratio.org</a>
+<button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
+<div class="nav-links">
+<a href="/">Home</a>
+<a href="/calculator.html">Calculator</a>
+<a href="/means-test.html">Means Test</a>
+<a href="/mortgage.html">Mortgage DTI</a>
+<a href="/how-to-lower.html">Lower Your DTI</a>
+<a href="/bankruptcy-signal.html">Bankruptcy Signal</a>
+<a href="/credit-card-debt.html">Credit Cards</a>
+<a href="/student-loans.html">Student Loans</a>
+<a class="active" href="/faq.html">FAQ</a>
+</div>
+</nav>
+<header>
+<h1>DTI <span class="accent">FAQ</span></h1>
+<p class="subtitle">Frequently asked questions about debt-to-income ratio. Clear answers, no jargon.</p>
+</header>
+<div aria-label="Breadcrumb" class="breadcrumb">
+<a href="https://1328f.com/">Network</a> › <a href="/">DTI Ratio</a> › FAQ
+</div>
+<main id="main-content">
+<div class="content-section">
+<h2>Basic DTI Questions</h2>
+<details>
+<summary>What is a debt-to-income ratio?</summary>
+<div class="faq-answer">
+<p>Your debt-to-income ratio (DTI) is your total monthly debt payments divided by your gross monthly income (before taxes), expressed as a percentage. If you pay $2,000/month in debt and earn $5,000/month gross, your DTI is 40%.</p>
+<p><a href="/">Read the complete DTI guide.</a></p>
+</div>
+</details>
+<details>
+<summary>What is a good debt-to-income ratio?</summary>
+<div class="faq-answer">
+<p>Under 36% is generally considered healthy. Between 36-43% is manageable but limits borrowing options. Between 43-50% indicates financial stress. Over 50% is considered critical and often unsustainable.</p>
+</div>
+</details>
+<details>
+<summary>Is DTI calculated on gross or net income?</summary>
+<div class="faq-answer">
+<p>Gross income (before taxes and deductions). This is the industry standard for all DTI calculations. Using gross income makes DTI appear lower than it would with net income, which is why some financial advisors suggest also calculating a "real DTI" using take-home pay for personal budgeting purposes.</p>
+</div>
+</details>
+<details>
+<summary>What is the difference between front-end and back-end DTI?</summary>
+<div class="faq-answer">
+<p><strong>Front-end DTI</strong> includes only housing costs (mortgage/rent, property taxes, insurance, HOA) divided by gross income.</p>
+<p><strong>Back-end DTI</strong> includes all monthly debt payments (housing plus car loans, <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a>, credit card minimums, personal loans, child support) divided by gross income.</p>
+<p>When people say "DTI" without specifying, they usually mean back-end DTI.</p>
+</div>
+</details>
+</div>
+<div class="content-section">
+<h2>What Counts (and What Does Not)</h2>
+<details>
+<summary>Does rent count in DTI?</summary>
+<div class="faq-answer">
+<p>Yes. Your monthly rent payment counts toward both front-end and back-end DTI.</p>
+</div>
+</details>
+<details>
+<summary>Do utilities count in DTI?</summary>
+<div class="faq-answer">
+<p>No. Utilities (electric, gas, water, internet, phone) do not count toward DTI. Only debt payments - obligations you owe to a lender or creditor - are included.</p>
+</div>
+</details>
+<details>
+<summary>Does car insurance count in DTI?</summary>
+<div class="faq-answer">
+<p>No. Car insurance is not a debt payment. Only your car loan or lease payment counts. However, homeowner's insurance does count toward front-end DTI if it is part of your mortgage escrow.</p>
+</div>
+</details>
+<details>
+<summary>Do health insurance premiums count in DTI?</summary>
+<div class="faq-answer">
+<p>No. Health insurance premiums are not debt payments and do not count toward DTI, whether they are deducted from your paycheck or paid separately.</p>
+</div>
+</details>
+<details>
+<summary>Does child support count in DTI?</summary>
+<div class="faq-answer">
+<p>Yes. Court-ordered child support and alimony payments count toward back-end DTI. These are recurring obligations that reduce your available income.</p>
+</div>
+</details>
+<details>
+<summary>Do medical bills count in DTI?</summary>
+<div class="faq-answer">
+<p>Only if they are on a formal payment plan. A $5,000 medical bill sitting in collections does not count toward DTI (though it may affect your credit score). A medical bill you are paying $200/month on through a payment plan does count.</p>
+</div>
+</details>
+</div>
+<div class="content-section">
+<h2>Mortgage Questions</h2>
+<details>
+<summary>What DTI do I need for an FHA loan?</summary>
+<div class="faq-answer">
+<p>Standard: 31% front-end, 43% back-end. With compensating factors (strong reserves, minimal payment increase): up to 40% front-end, 50% back-end. <a href="/mortgage.html">Full mortgage DTI breakdown.</a></p>
+</div>
+</details>
+<details>
+<summary>What DTI do I need for a conventional mortgage?</summary>
+<div class="faq-answer">
+<p>Traditional guideline: 28% front-end, 36% back-end. In practice, many conventional lenders accept up to 45% back-end DTI with strong credit scores (720+) and 20% down payment. Automated underwriting (Fannie Mae DU) can approve up to 50%.</p>
+</div>
+</details>
+<details>
+<summary>What is the 43% rule?</summary>
+<div class="faq-answer">
+<p>The 43% rule refers to FHA's standard maximum back-end DTI and the Qualified Mortgage (QM) limit from the Consumer Financial Protection Bureau. It has become a general benchmark. A DTI over 43% limits your mortgage options but does not make them impossible.</p>
+</div>
+</details>
+</div>
+<div class="content-section">
+<h2>Credit Score and DTI</h2>
+<details>
+<summary>Does DTI affect my credit score?</summary>
+<div class="faq-answer">
+<p>Not directly. Credit scores use payment history, credit utilization, length of history, new credit, and credit mix. DTI is not a factor. However, high DTI often correlates with high credit utilization, which does affect your score.</p>
+</div>
+</details>
+<details>
+<summary>What is the difference between DTI and credit utilization?</summary>
+<div class="faq-answer">
+<p><strong>DTI</strong> = monthly debt payments / gross income (affects lending decisions).</p>
+<p><strong>Credit utilization</strong> = credit balance / credit limit (affects credit score).</p>
+<p>They measure different things. You can have low utilization and high DTI, or vice versa.</p>
+</div>
+</details>
+</div>
+<div class="content-section">
+<h2>Reducing DTI and Bankruptcy</h2>
+<details>
+<summary>How quickly can I lower my DTI?</summary>
+<div class="faq-answer">
+<p>It depends on the method. Paying off a credit card: immediate. Increasing income: as soon as documented. Switching <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a> to IDR: 1-3 months. Bankruptcy: 3-4 months (<a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>). The fastest option is eliminating a monthly payment entirely. <a href="/how-to-lower.html">10 strategies to lower DTI.</a></p>
+</div>
+</details>
+<details>
+<summary>Can bankruptcy lower my DTI?</summary>
+<div class="faq-answer">
+<p>Yes, dramatically. <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> eliminates most <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>, directly removing those monthly payments from your DTI. Many people go from 60%+ DTI to under 30% after <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. <a href="/bankruptcy-signal.html">When high DTI signals bankruptcy.</a></p>
+</div>
+</details>
+<details>
+<summary>Is DTI the same as the bankruptcy <a href="https://meanstest.org/" title="means test">means test</a>?</summary>
+<div class="faq-answer">
+<p>No. DTI is a general financial metric. The <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> is a specific legal test under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>(2) that determines Chapter 7 eligibility. They are correlated but use different calculations. <a href="/means-test.html">Full DTI vs. means test comparison.</a></p>
+</div>
+</details>
+<details>
+<summary>How do student loans affect DTI?</summary>
+<div class="faq-answer">
+<p>Based on your actual monthly payment. Standard plan on $50K: ~$530/month. Income-driven plan: $0-200/month. The plan you choose determines DTI impact. For mortgages, even $0 payments may be imputed at 0.5-1% of balance. <a href="/student-loans.html">Full student loan DTI guide.</a></p>
+</div>
+</details>
+</div>
+<div class="cta-box">
+<h3>Calculate Your DTI Now</h3>
+<p>Free, instant, no signup. See where you stand.</p>
+<div class="cta-links">
+<a class="primary-btn" href="/calculator.html">DTI Calculator</a>
+<a class="secondary-btn" href="/">Complete DTI Guide</a>
+</div>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://canifileagain.org" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
+<li><a href="https://bankruptcydismissed.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Dismissed - What Now?</a></li>
+<li><a href="https://filebankruptcyagain.org" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+<li><a href="https://109g.org" style="color:#58a6ff;text-decoration:none">Section 109(g) Filing Bar</a></li>
+</ul>
+</div>
+</main>
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.25rem">Support free financial information</p>
+<p style="color:var(--text-muted);font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing. 0 supporters so far.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on debt relief alternatives and comparison:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-debt-relief-en-1457/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: Debt Relief Options</a><br/><span style="color:#7d8590;font-size:0.8rem">CFPB comparison</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://consumer.ftc.gov/articles/settling-credit-card-debt" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FTC: Settling Credit Card Debt</a><br/><span style="color:#7d8590;font-size:0.8rem">FTC guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://consumer.ftc.gov/articles/choosing-credit-counselor" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FTC: Choosing a Credit Counselor</a><br/><span style="color:#7d8590;font-size:0.8rem">FTC guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust/list-credit-counseling-agencies-approved-pursuant-11-usc-111" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Credit Counseling Agencies</a><br/><span style="color:#7d8590;font-size:0.8rem">DOJ list</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/complaint/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB Complaint Tool</a><br/><span style="color:#7d8590;font-size:0.8rem">File complaints</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22debt+settlement%22+vs+bankruptcy+consumer+outcomes" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Debt Settlement Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://meanstest.org?utm_source=debttoincomeratio.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Means Test Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Find out if you qualify for Chapter 7</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">meanstest.org →</p>
+</a>
+<a class="related-card" href="https://1099cdebt.com?utm_source=debttoincomeratio.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">1099-C Cancellation of Debt</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">1099cdebt.com →</p>
+</a>
+<a class="related-card" href="https://averagecreditcarddebt.org?utm_source=debttoincomeratio.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Average Credit Card Debt Stats</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">averagecreditcarddebt.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcymeanstest.org?utm_source=debttoincomeratio.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Means Test by State</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">State-by-state income limits for the means test</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcymeanstest.org →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=debttoincomeratio.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=debttoincomeratio.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=debttoincomeratio.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<p><strong>Part of the Open Bankruptcy Project</strong></p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="https://1328f.com?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
+<a href="https://1328f.org?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a>
+<a href="https://meanstest.org?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a>
+<a href="https://chapter7vs13.org?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">chapter7vs13.org</a>
+<a href="https://creditcarddebtbankruptcy.org?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">creditcarddebtbankruptcy.org</a>
+<a href="https://bankruptcystudentloans.org?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">bankruptcystudentloans.org</a>
+<a href="https://howmuchdoesbankruptcycost.com?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">howmuchdoesbankruptcycost.com</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=debttoincomeratio.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
