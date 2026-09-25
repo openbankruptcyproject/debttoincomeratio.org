@@ -1,22 +1,75 @@
 # Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Calculate your debt-to-income ratio instantly. See how DTI affects mortgage approval, credit, and bankruptcy eligibility. Free 2026 calculator.
+> Debt-to-income ratio calculator (DTI ratio, debt ratio calculator, debt payment ratio, debt percentage calculator): calculate your debt-to-income ratio and
 
 ## About
 debttoincomeratio.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- When High DTI Means You Should Consider Bankruptcy - DTI Ratio: https://debttoincomeratio.org/bankruptcy-signal.html
+- High DTI Bankruptcy Signal [2026]: 43% Threshold, 11 USC 707(b) Means Test, and Indicators: https://debttoincomeratio.org/bankruptcy-signal.html
 - Free DTI Calculator - Calculate Your Debt-to-Income Ratio - DTI Ratio: https://debttoincomeratio.org/calculator.html
-- How Credit Card Debt Drives Up Your DTI Ratio: https://debttoincomeratio.org/credit-card-debt.html
-- Debt-to-Income Ratio FAQ - Common Questions Answered - DTI Ratio: https://debttoincomeratio.org/faq.html
-- How to Lower Your Debt-to-Income Ratio - 10 Strategies - DTI Ratio: https://debttoincomeratio.org/how-to-lower.html
+- Credit Card Debt and DTI Ratio [2026]: How Minimum Payments Drive Up Back-End Ratios: https://debttoincomeratio.org/credit-card-debt.html
+- Debt-to-Income Ratio FAQ [2026]: Front-End, Back-End, FHA Thresholds, and Means-Test Crossover: https://debttoincomeratio.org/faq.html
+- How to Lower Your DTI Ratio [2026]: 10 Strategies From Refinancing to Bankruptcy Discharge: https://debttoincomeratio.org/how-to-lower.html
 - Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio: https://debttoincomeratio.org/
-- DTI Ratio and the Bankruptcy Means Test - How They Connect: https://debttoincomeratio.org/means-test.html
-- DTI Requirements for Mortgages - FHA, Conventional, VA, USDA - DTI Ratio: https://debttoincomeratio.org/mortgage.html
-- Student Loan Impact on DTI Ratio - IBR, PAYE, SAVE Plans: https://debttoincomeratio.org/student-loans.html
+- DTI Ratio and the Bankruptcy Means Test [2026]: How They Connect Under 11 USC 707(b): https://debttoincomeratio.org/means-test.html
+- Mortgage DTI Requirements [2026]: FHA 43-50%, Conventional 45-50%, VA Residual, USDA 41%: https://debttoincomeratio.org/mortgage.html
+- Student Loan Impact on DTI [2026]: IBR, PAYE, SAVE Plans, and Mortgage Underwriting Treatment: https://debttoincomeratio.org/student-loans.html
 - Privacy Policy: https://debttoincomeratio.org/privacy.html
+- About debttoincomeratio.org: https://debttoincomeratio.org/about.html
+- Alabama Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/alabama.html
+- Alaska Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/alaska.html
+- Arizona Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/arizona.html
+- Arkansas Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/arkansas.html
+- California Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/california.html
+- Colorado Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/colorado.html
+- Connecticut Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/connecticut.html
+- Delaware Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/delaware.html
+- District of Columbia Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/district-of-columbia.html
+- Florida Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/florida.html
+- Georgia Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/georgia.html
+- Hawaii Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/hawaii.html
+- Idaho Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/idaho.html
+- Illinois Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/illinois.html
+- Debt-to-Income Ratio by State: https://debttoincomeratio.org/states/
+- Indiana Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/indiana.html
+- Iowa Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/iowa.html
+- Kansas Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/kansas.html
+- Kentucky Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/kentucky.html
+- Louisiana Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/louisiana.html
+- Maine Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/maine.html
+- Maryland Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/maryland.html
+- Massachusetts Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/massachusetts.html
+- Michigan Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/michigan.html
+- Minnesota Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/minnesota.html
+- Mississippi Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/mississippi.html
+- Missouri Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/missouri.html
+- Montana Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/montana.html
+- Nebraska Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/nebraska.html
+- Nevada Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/nevada.html
+- New Hampshire Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/new-hampshire.html
+- New Jersey Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/new-jersey.html
+- New Mexico Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/new-mexico.html
+- New York Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/new-york.html
+- North Carolina Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/north-carolina.html
+- North Dakota Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/north-dakota.html
+- Ohio Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/ohio.html
+- Oklahoma Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/oklahoma.html
+- Oregon Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/oregon.html
+- Pennsylvania Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/pennsylvania.html
+- Rhode Island Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/rhode-island.html
+- South Carolina Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/south-carolina.html
+- South Dakota Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/south-dakota.html
+- Tennessee Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/tennessee.html
+- Texas Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/texas.html
+- Utah Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/utah.html
+- Vermont Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/vermont.html
+- Virginia Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/virginia.html
+- Washington Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/washington.html
+- West Virginia Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/west-virginia.html
+- Wisconsin Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/wisconsin.html
+- Wyoming Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
