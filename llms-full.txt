@@ -1,6 +1,6 @@
 # debttoincomeratio.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on debttoincomeratio.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -973,7 +973,7 @@ Refinancing existing loans can lower your monthly payment and therefore your DTI
 
 Auto loan: Refinance to a longer term or lower rate
 
-Student loans: Switch to an income-driven repayment plan (IBR/PAYE/SAVE) to dramatically reduce monthly payments. More on student loans and DTI.
+Student loans: Switch to an income-driven repayment plan (such as IBR or the Repayment Assistance Plan) to dramatically reduce monthly payments. More on student loans and DTI.
 
 Mortgage: Refinance to a lower rate or longer term
 
@@ -1199,7 +1199,7 @@ How minimum payments on credit cards silently destroy your DTI ratio.
 
 Student Loans & DTI
 
-IBR, PAYE, SAVE plans and how repayment options affect your ratio.
+IBR, RAP, and other repayment plans and how they affect your ratio.
 
 FAQ
 
@@ -2080,7 +2080,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Student Loan Impact on DTI [2026]: IBR, PAYE, SAVE Plans, and Mortgage Underwriting Treatment
+## Student Loan Impact on DTI [2026]: IBR, RAP, and Mortgage Underwriting Treatment
 Source: https://debttoincomeratio.org/student-loans.html
 
 Skip to main content
@@ -2104,7 +2104,7 @@ Student loans can dominate your DTI ratio. But the repayment plan you choose can
 
 Network › DTI Ratio › Student Loans
 
-Student loans affect your back-end DTI based on your actual monthly payment amount. On a standard 10-year repayment plan, $50,000 in student loans creates about a $530/month payment. On an income-driven plan like IBR or SAVE, the payment could be $0-200/month depending on income and family size. The payment plan you choose directly determines your DTI impact.
+Student loans affect your back-end DTI based on your actual monthly payment amount. On a standard 10-year repayment plan, $50,000 in student loans creates about a $530/month payment. On an income-driven plan like IBR, the payment could be $0-200/month depending on income and family size. The payment plan you choose directly determines your DTI impact.
 
 Student Loan DTI Impact by Repayment Plan
 
@@ -2139,11 +2139,6 @@ PAYE (Pay As You Earn)
 $0-$250*
 0-5%
 20 years
-
-SAVE (Saving on a Valuable Education)
-$0-$200*
-0-4%
-20-25 years
 
 ICR (Income-Contingent)
 $0-$350*
@@ -2186,13 +2181,13 @@ Switching from a standard repayment plan to an income-driven plan is the single 
 
 Visit StudentAid.gov and log in with your FSA ID
 
-Use the Loan Simulator to compare plans
+Use the Repayment Calculator to compare plans
 
-Apply for the plan that gives you the lowest payment (usually SAVE or PAYE)
+Apply for the plan that fits your budget; SAVE ended in March 2026
 
-Processing takes 1-3 months. Your loan servicer handles the switch.
+Your loan servicer handles the switch.
 
-DTI impact: Switching from standard to SAVE on $50,000 of student debt with $60,000 annual income could drop your monthly payment from $530 to ~$150 - reducing your DTI by 7.6 percentage points. That can be the difference between qualifying for a mortgage and being denied.
+DTI impact: Switching from a standard plan to an income-driven plan can lower your monthly payment, and with it your DTI. That can be the difference between qualifying for a mortgage and being denied.
 
 Student Loans and Bankruptcy
 
@@ -2214,7 +2209,7 @@ If your loans are forgiven (through PSLF, IDR forgiveness, or another program), 
 
 Public Service Loan Forgiveness (PSLF): 120 qualifying payments (10 years) while working for a qualifying employer. No tax on the forgiven amount.
 
-IDR Forgiveness: 20-25 years of income-driven payments. The forgiven amount may be taxable income (though a temporary exemption applies through 2025).
+IDR Forgiveness: 20 to 30 years of income-driven payments, depending on the plan. The American Rescue Plan Act exclusion covered student loan discharges through December 31, 2025, and was not extended. The forgiven amount after that date can be taxable income.
 
 Borrower Defense: If your school engaged in fraud or misrepresentation.
 

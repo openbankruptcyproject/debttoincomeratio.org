@@ -1,5 +1,5 @@
 # Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 > Debt-to-income ratio calculator (DTI ratio, debt ratio calculator, debt payment ratio, debt percentage calculator): calculate your debt-to-income ratio and
 
@@ -15,7 +15,7 @@ debttoincomeratio.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Debt-to-Income Ratio Calculator - Free Tool [2026] - DTI Ratio: https://debttoincomeratio.org/
 - DTI Ratio and the Bankruptcy Means Test [2026]: How They Connect Under 11 USC 707(b): https://debttoincomeratio.org/means-test.html
 - Mortgage DTI Requirements [2026]: FHA 43-50%, Conventional 45-50%, VA Residual, USDA 41%: https://debttoincomeratio.org/mortgage.html
-- Student Loan Impact on DTI [2026]: IBR, PAYE, SAVE Plans, and Mortgage Underwriting Treatment: https://debttoincomeratio.org/student-loans.html
+- Student Loan Impact on DTI [2026]: IBR, RAP, and Mortgage Underwriting Treatment: https://debttoincomeratio.org/student-loans.html
 - Privacy Policy: https://debttoincomeratio.org/privacy.html
 - About debttoincomeratio.org: https://debttoincomeratio.org/about.html
 - Alabama Debt-to-Income Ratio [2026]: HFA Overlays, 43% QM Rule, and DTI Breaking Points: https://debttoincomeratio.org/states/alabama.html
